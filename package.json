@@ -1,0 +1,22 @@
+{
+  "name": "toclassname",
+  "version": "0.1.1",
+  "description": "Transforms arguments into a className string suitable for React",
+  "main": "toClassName.js",
+  "author": "Daniel Streit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielstreit/toClassName.git"
+  },
+  "scripts": {
+    "test": "mocha spec.js"
+  },
+  "keywords": [
+    "react",
+    "classes",
+    "classname",
+    "classnames",
+    "classSet"
+  ]
+}
